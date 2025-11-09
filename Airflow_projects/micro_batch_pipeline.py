@@ -1,5 +1,4 @@
-# Prueba Ingenieria de datos Pragma
-# Candidato: Julian Romero
+# Prueba Ingenieria de datos
 # Importar librerias que se usaran en el Pipeline
 
 from airflow import DAG 
