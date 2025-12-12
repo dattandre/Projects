@@ -1,0 +1,29 @@
+{
+    "testId": 29282,
+    "orderId": 29281,
+    "patientId": 28862,
+    "resultDate": "1986-03-24",
+    "testResults": [
+        {
+            "componentName": "Total Cholesterol",
+            "componentRefHi": 200,
+            "componentRefLo": 100,
+            "componentUnits": "mg/dL",
+            "resultValue": 137.59541474951814
+        },
+        {
+            "componentName": "LDL Cholesterol",
+            "componentRefHi": 130,
+            "componentRefLo": 50,
+            "componentUnits": "mg/dL",
+            "resultValue": 0
+        },
+        {
+            "componentName": "HDL Cholesterol",
+            "componentRefHi": 60,
+            "componentRefLo": 40,
+            "componentUnits": "mg/dL",
+            "resultValue": 62.53472271359419
+        }
+    ]
+}

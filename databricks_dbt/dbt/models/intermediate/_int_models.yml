@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: patients
+    columns:
+      - name: patient_id
+        tests:
+          - unique
+          - not_null

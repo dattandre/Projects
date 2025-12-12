@@ -1,0 +1,29 @@
+{
+    "testId": 21852,
+    "orderId": 21851,
+    "patientId": 21068,
+    "resultDate": "1978-09-24",
+    "testResults": [
+        {
+            "componentName": "Glucose",
+            "componentRefHi": 140,
+            "componentRefLo": 70,
+            "componentUnits": "mg/dL",
+            "resultValue": 65.6563628975868
+        },
+        {
+            "componentName": "Creatinine",
+            "componentRefHi": 1.3,
+            "componentRefLo": 0.6,
+            "componentUnits": "mg/dL",
+            "resultValue": 1.271535689398839
+        },
+        {
+            "componentName": "Potassium",
+            "componentRefHi": 5.1,
+            "componentRefLo": 3.5,
+            "componentUnits": "mmol/L",
+            "resultValue": 4.002218798497099
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "testId": 49197,
+    "orderId": 49196,
+    "patientId": 48847,
+    "resultDate": "2009-11-09",
+    "testResults": [
+        {
+            "componentName": "White Blood Cell Count",
+            "componentRefHi": 11.0,
+            "componentRefLo": 4.0,
+            "componentUnits": "10^9/L",
+            "resultValue": 1.9701468382485103
+        },
+        {
+            "componentName": "Hemoglobin",
+            "componentRefHi": 17.5,
+            "componentRefLo": 13.0,
+            "componentUnits": "g/dL",
+            "resultValue": 10.205248800198142
+        },
+        {
+            "componentName": "Platelet Count",
+            "componentRefHi": 450,
+            "componentRefLo": 150,
+            "componentUnits": "10^9/L",
+            "resultValue": 670.2636261894113
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "testId": 30310,
+    "orderId": 30309,
+    "patientId": 30241,
+    "resultDate": "2023-07-19",
+    "testResults": [
+        {
+            "componentName": "Leukocyte Esterase",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "+",
+            "resultValue": 0.6112019027106406
+        },
+        {
+            "componentName": "Protein",
+            "componentRefHi": 30,
+            "componentRefLo": 0,
+            "componentUnits": "mg/dL",
+            "resultValue": 20.141095274622586
+        }
+    ]
+}

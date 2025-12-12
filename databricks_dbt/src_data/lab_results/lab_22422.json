@@ -1,0 +1,22 @@
+{
+    "testId": 22422,
+    "orderId": 22421,
+    "patientId": 21068,
+    "resultDate": "2004-07-28",
+    "testResults": [
+        {
+            "componentName": "Leukocyte Esterase",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "+",
+            "resultValue": 0.33821131304771324
+        },
+        {
+            "componentName": "Protein",
+            "componentRefHi": 30,
+            "componentRefLo": 0,
+            "componentUnits": "mg/dL",
+            "resultValue": 18.416164251265453
+        }
+    ]
+}

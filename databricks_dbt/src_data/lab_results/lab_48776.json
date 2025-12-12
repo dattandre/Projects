@@ -1,0 +1,22 @@
+{
+    "testId": 48776,
+    "orderId": 48775,
+    "patientId": 48495,
+    "resultDate": "1981-09-11",
+    "testResults": [
+        {
+            "componentName": "Forced Expiratory Volume (FEV1)",
+            "componentRefHi": 3.5,
+            "componentRefLo": 2.0,
+            "componentUnits": "L",
+            "resultValue": 4.132646353436062
+        },
+        {
+            "componentName": "Peak Expiratory Flow (PEF)",
+            "componentRefHi": 9.0,
+            "componentRefLo": 5.0,
+            "componentUnits": "L/s",
+            "resultValue": 8.179499418974995
+        }
+    ]
+}

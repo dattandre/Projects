@@ -1,0 +1,15 @@
+{
+    "testId": 15227,
+    "orderId": 15226,
+    "patientId": 14015,
+    "resultDate": "1992-09-25",
+    "testResults": [
+        {
+            "componentName": "Influenza A/B",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 1.0029381568338276
+        }
+    ]
+}

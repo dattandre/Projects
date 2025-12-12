@@ -1,0 +1,15 @@
+{
+    "testId": 16685,
+    "orderId": 16684,
+    "patientId": 16233,
+    "resultDate": "2017-09-23",
+    "testResults": [
+        {
+            "componentName": "HIV Antibodies",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 0.8786915147070088
+        }
+    ]
+}

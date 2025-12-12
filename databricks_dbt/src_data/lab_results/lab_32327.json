@@ -1,0 +1,15 @@
+{
+    "testId": 32327,
+    "orderId": 32326,
+    "patientId": 31945,
+    "resultDate": "2013-11-20",
+    "testResults": [
+        {
+            "componentName": "CRP",
+            "componentRefHi": 10,
+            "componentRefLo": 0,
+            "componentUnits": "mg/L",
+            "resultValue": 10.57810772052784
+        }
+    ]
+}

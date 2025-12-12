@@ -1,0 +1,15 @@
+{
+    "testId": 48044,
+    "orderId": 48043,
+    "patientId": 47989,
+    "resultDate": "2022-04-02",
+    "testResults": [
+        {
+            "componentName": "Influenza A/B",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 1.0098966744544993
+        }
+    ]
+}

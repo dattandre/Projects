@@ -1,0 +1,15 @@
+{
+    "testId": 32518,
+    "orderId": 32517,
+    "patientId": 31945,
+    "resultDate": "2023-03-02",
+    "testResults": [
+        {
+            "componentName": "CRP",
+            "componentRefHi": 10,
+            "componentRefLo": 0,
+            "componentUnits": "mg/L",
+            "resultValue": 0
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "testId": 50696,
+    "orderId": 50695,
+    "patientId": 50605,
+    "resultDate": "2006-09-04",
+    "testResults": [
+        {
+            "componentName": "CRP",
+            "componentRefHi": 10,
+            "componentRefLo": 0,
+            "componentUnits": "mg/L",
+            "resultValue": 14.299387670971456
+        }
+    ]
+}

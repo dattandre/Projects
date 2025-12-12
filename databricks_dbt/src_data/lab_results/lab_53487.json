@@ -1,0 +1,15 @@
+{
+    "testId": 53487,
+    "orderId": 53486,
+    "patientId": 53235,
+    "resultDate": "2000-12-01",
+    "testResults": [
+        {
+            "componentName": "Influenza A/B",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 0.30260826792227136
+        }
+    ]
+}

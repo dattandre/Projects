@@ -1,0 +1,22 @@
+{
+    "testId": 44394,
+    "orderId": 44393,
+    "patientId": 44268,
+    "resultDate": "2000-07-17",
+    "testResults": [
+        {
+            "componentName": "Thyroid Stimulating Hormone (TSH)",
+            "componentRefHi": 4.5,
+            "componentRefLo": 0.4,
+            "componentUnits": "mIU/L",
+            "resultValue": 0.7982990465245932
+        },
+        {
+            "componentName": "Free T4",
+            "componentRefHi": 1.8,
+            "componentRefLo": 0.8,
+            "componentUnits": "ng/dL",
+            "resultValue": 0.23850942481610993
+        }
+    ]
+}

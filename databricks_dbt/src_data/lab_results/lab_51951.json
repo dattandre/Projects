@@ -1,0 +1,15 @@
+{
+    "testId": 51951,
+    "orderId": 51950,
+    "patientId": 51798,
+    "resultDate": "2004-07-08",
+    "testResults": [
+        {
+            "componentName": "HIV Antibodies",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 1.7061073236624076
+        }
+    ]
+}

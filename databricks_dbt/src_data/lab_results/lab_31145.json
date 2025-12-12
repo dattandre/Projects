@@ -1,0 +1,15 @@
+{
+    "testId": 31145,
+    "orderId": 31144,
+    "patientId": 31057,
+    "resultDate": "2022-07-11",
+    "testResults": [
+        {
+            "componentName": "HbA1C",
+            "componentRefHi": 5.7,
+            "componentRefLo": 4.0,
+            "componentUnits": "%",
+            "resultValue": 3.1519523687586446
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "testId": 32384,
+    "orderId": 32383,
+    "patientId": 31945,
+    "resultDate": "2016-07-06",
+    "testResults": [
+        {
+            "componentName": "CRP",
+            "componentRefHi": 10,
+            "componentRefLo": 0,
+            "componentUnits": "mg/L",
+            "resultValue": 8.73697508554013
+        }
+    ]
+}

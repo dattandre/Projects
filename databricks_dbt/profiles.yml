@@ -1,0 +1,17 @@
+
+takehome:
+  target: dev  # this is default target
+  
+  outputs:
+    dev:
+      type: duckdb
+      path: 'takehome.duckdb'
+      threads: 4
+      schema: dev
+
+    prod:
+      type: duckdb
+      path: 'takehome.duckdb'
+      threads: 8
+      schema: prod
+      

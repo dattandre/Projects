@@ -1,0 +1,15 @@
+{
+    "testId": 28798,
+    "orderId": 28797,
+    "patientId": 27869,
+    "resultDate": "1997-08-05",
+    "testResults": [
+        {
+            "componentName": "HIV Antibodies",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 0.9786641185185908
+        }
+    ]
+}

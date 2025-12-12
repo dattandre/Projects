@@ -1,0 +1,15 @@
+{
+    "testId": 36026,
+    "orderId": 36025,
+    "patientId": 34661,
+    "resultDate": "2003-05-24",
+    "testResults": [
+        {
+            "componentName": "Cortisol (Morning)",
+            "componentRefHi": 22,
+            "componentRefLo": 6,
+            "componentUnits": "\u00b5g/dL",
+            "resultValue": 11.200933114893365
+        }
+    ]
+}

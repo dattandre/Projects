@@ -1,0 +1,15 @@
+{
+    "testId": 52267,
+    "orderId": 52266,
+    "patientId": 51798,
+    "resultDate": "2022-10-10",
+    "testResults": [
+        {
+            "componentName": "HIV Antibodies",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 0
+        }
+    ]
+}

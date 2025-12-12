@@ -1,0 +1,22 @@
+{
+    "testId": 34226,
+    "orderId": 34225,
+    "patientId": 33926,
+    "resultDate": "2024-06-25",
+    "testResults": [
+        {
+            "componentName": "Forced Expiratory Volume (FEV1)",
+            "componentRefHi": 3.5,
+            "componentRefLo": 2.0,
+            "componentUnits": "L",
+            "resultValue": 2.814259187863129
+        },
+        {
+            "componentName": "Peak Expiratory Flow (PEF)",
+            "componentRefHi": 9.0,
+            "componentRefLo": 5.0,
+            "componentUnits": "L/s",
+            "resultValue": 1.854633431111126
+        }
+    ]
+}

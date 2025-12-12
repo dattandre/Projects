@@ -1,0 +1,22 @@
+{
+    "testId": 50946,
+    "orderId": 50945,
+    "patientId": 50865,
+    "resultDate": "2011-08-28",
+    "testResults": [
+        {
+            "componentName": "Thyroid Stimulating Hormone (TSH)",
+            "componentRefHi": 4.5,
+            "componentRefLo": 0.4,
+            "componentUnits": "mIU/L",
+            "resultValue": 4.92160247472825
+        },
+        {
+            "componentName": "Free T4",
+            "componentRefHi": 1.8,
+            "componentRefLo": 0.8,
+            "componentUnits": "ng/dL",
+            "resultValue": 0.5642654783773822
+        }
+    ]
+}

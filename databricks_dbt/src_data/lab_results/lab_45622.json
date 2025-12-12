@@ -1,0 +1,15 @@
+{
+    "testId": 45622,
+    "orderId": 45621,
+    "patientId": 45454,
+    "resultDate": "2020-10-18",
+    "testResults": [
+        {
+            "componentName": "CRP",
+            "componentRefHi": 10,
+            "componentRefLo": 0,
+            "componentUnits": "mg/L",
+            "resultValue": 2.2046860944995905
+        }
+    ]
+}

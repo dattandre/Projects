@@ -1,0 +1,15 @@
+{
+    "testId": 48076,
+    "orderId": 48075,
+    "patientId": 47989,
+    "resultDate": "2023-01-27",
+    "testResults": [
+        {
+            "componentName": "Influenza A/B",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 1.177411751044795
+        }
+    ]
+}

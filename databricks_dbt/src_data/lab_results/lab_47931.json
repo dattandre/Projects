@@ -1,0 +1,15 @@
+{
+    "testId": 47931,
+    "orderId": 47930,
+    "patientId": 46421,
+    "resultDate": "1994-02-17",
+    "testResults": [
+        {
+            "componentName": "Cortisol (Morning)",
+            "componentRefHi": 22,
+            "componentRefLo": 6,
+            "componentUnits": "\u00b5g/dL",
+            "resultValue": 28.77762004378104
+        }
+    ]
+}

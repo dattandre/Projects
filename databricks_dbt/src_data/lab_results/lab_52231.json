@@ -1,0 +1,15 @@
+{
+    "testId": 52231,
+    "orderId": 52230,
+    "patientId": 51798,
+    "resultDate": "2021-01-22",
+    "testResults": [
+        {
+            "componentName": "HIV Antibodies",
+            "componentRefHi": 1,
+            "componentRefLo": 0,
+            "componentUnits": "",
+            "resultValue": 0.2629291687429106
+        }
+    ]
+}
